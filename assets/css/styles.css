@@ -1,0 +1,16 @@
+
+body {
+  background-color: #111;
+  color: #ddd;
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  background-image: url('/assets/backgrounds/parchment.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+a {
+  color: #9fd3c7;
+}
+h1, h2, h3 {
+  color: #ffe99b;
+}
